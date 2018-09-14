@@ -1,0 +1,49 @@
+980:
+Navbar width: 960px
+Main content border-box width: 650px
+Main content content-box width: 588px
+margin: 38px auto
+
+The navbar width can't be sustained below 1070px
+
+768:
+Full width main content
+Main content border-box width: 695px
+Main content content-box width: 633px
+Profile pic is half as wide as main (without padding)
+margin: 38px 19px
+Pic: 325px x 244px
+
+753 = 19 + 1 + 30 + 650 + 30 + 1 + 20 + 2
+
+
+640:
+Full width main content
+margin: 19px
+
+1 + 20 + 1 + 30 + 475 + 30 + 1 + 20 + 1
+
+
+
+(Portfolio)
+On the portfolio page (only) the main content stretches to fit the screen if necessary! The vertical gutters distribute any extra space.
+
+Project-to-side-border: 30px
+HR-to-project: 40px
+Project-to-bottom-border: Vertical gutter + 10px
+
+980: (1052x1158)
+hr: 588px
+Projects: 274px x 206px
+Vertical gutter: 56px
+Horizontal gutter: 40px
+40px top, 66px bottom
+
+
+768: (735x1158)
+hr: 633px
+Projects: 298px x 223px
+Vertical gutter: 41px
+Horizontal gutter: 38px
+40px top, 51px bottom
+Titles: 20px top, 6/11/5px text, 23px bottom (from base line)
